@@ -1,0 +1,14 @@
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\SeleniumSayisal.exe.config
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\SeleniumSayisal.exe
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\SeleniumSayisal.pdb
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\WebDriver.dll
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\WebDriver.Support.dll
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\WebDriver.xml
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\WebDriver.Support.xml
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\obj\Debug\SeleniumSayisal.csprojAssemblyReference.cache
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\obj\Debug\SeleniumSayisal.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\obj\Debug\SeleniumSayisal.csproj.CopyComplete
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\obj\Debug\SeleniumSayisal.exe
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\obj\Debug\SeleniumSayisal.pdb
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\CsvHelper.dll
+C:\Users\mertd\source\repos\SeleniumSayisal\SeleniumSayisal\bin\Debug\CsvHelper.xml
